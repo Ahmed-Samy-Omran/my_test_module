@@ -9,7 +9,7 @@
     'data': [
         'security/ir.model.access.csv',
         'security/security.xml',
-        'views/test_model_views.xml',
+        'views/my_test_module_test_model_views.xml',
         'views/actions.xml',
         'views/menus.xml',
     ],
